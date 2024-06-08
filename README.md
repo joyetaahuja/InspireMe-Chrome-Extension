@@ -7,7 +7,7 @@ This Chrome extension provides you with daily motivational quotes to inspire and
   
 ## How to Use
 ### 1. Installation:
-* Download the extension files from GitHub repository.
+* Download the extension files from GitHub repository: https://github.com/joyetaahuja/Motivational-Quotes-Chrome-Extension
   > 
   > 
 * Unzip the downloaded folder to your preferred location on your computer.
