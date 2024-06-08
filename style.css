@@ -1,0 +1,20 @@
+body{
+    width: 300px;
+    height: auto;
+    background-color: rgb(97, 3, 91);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+p{
+    margin: 2vw;
+    font-size: 1.05rem;
+    color: white;
+    padding: 1.2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:500;
+    font-style: italic;
+}
