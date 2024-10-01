@@ -1,8 +1,6 @@
 # InspireMe Chrome Extension
 This Chrome extension provides you with daily motivational quotes to inspire and uplift you.
 
-DEMO VIDEO:https://www.youtube.com/watch?v=mUCrCHowgxs
-
 ## Features
 * Fetches motivational quotes from external APIs.
 * Displays a random quote each time you open a new tab.
